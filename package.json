@@ -1,0 +1,30 @@
+{
+  "name": "yt-watchparty",
+  "version": "1.0.0",
+  "description": "learning webrtc",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhnnypatil/yt-watchparty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhnnypatil/yt-watchparty/issues"
+  },
+  "homepage": "https://github.com/dhnnypatil/yt-watchparty#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.2",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
